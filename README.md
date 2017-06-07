@@ -8,6 +8,13 @@
 ---
 > [Mocky](http://www.mocky.io/)
 * 在线模拟api接口数据返回
+
 ---
+> [jquery-mockjax](https://github.com/jakerella/jquery-mockjax)
+* 拦截 Ajax 请求
 
+---
+> [Mock.js](http://mockjs.com/)
+* 生成随机数据，拦截 Ajax 请求
 
+---
