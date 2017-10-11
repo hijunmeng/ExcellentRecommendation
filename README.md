@@ -43,3 +43,14 @@
 * Weex是一套简单易用的跨平台开发方案，能以web的开发体验构建高性能、可扩展的native应用
 
 ---
+
+## 分布式
+---
+> [ZooKeeper](http://zookeeper.apache.org/)
+* ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务
+
+---
+> [Dubbo](http://dubbo.io/)
+* Dubbo是阿里巴巴公司开源的一个高性能优秀的服务框架，使得应用可通过高性能的 RPC 实现服务的输出和输入功能，可以和Spring框架无缝集成
+
+---
