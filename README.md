@@ -54,3 +54,11 @@
 * Dubbo是阿里巴巴公司开源的一个高性能优秀的服务框架，使得应用可通过高性能的 RPC 实现服务的输出和输入功能，可以和Spring框架无缝集成
 
 ---
+
+## 其他
+---
+> [OpenCV](https://opencv.org/)
+* OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上
+
+---
+
